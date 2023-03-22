@@ -1,5 +1,14 @@
 # Social-Network-Analytics-Graphs-and-Centrality-Measures
 
+#Requirements
+To run the code, you need to have the following requirements:
+
+Google Colab.
+The necessary libraries installed: csv, pandas, networkx, matplotlib, and numpy.
+A CSV file named "dataset.csv" that contains the data for the graph. The CSV file should have three columns, representing the source node, destination node, and the weight of the edge between them, respectively.
+The "dataset.csv" file should be in the same directory as the Python script. If it is in a different directory, you will need to modify the script to include the correct path to the file.
+The required permissions to read the "dataset.csv" file.
+
 # NetworkX 
 NetworkX is a Python package for the creation, manipulation, and study of complex networks or graphs.
 
