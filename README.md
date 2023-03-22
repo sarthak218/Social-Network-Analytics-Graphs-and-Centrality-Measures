@@ -1,6 +1,7 @@
 # Social-Network-Analytics-Graphs-and-Centrality-Measures
 
 #Requirements
+
 To run the code, you need to have the following requirements:
 
 Google Colab.
