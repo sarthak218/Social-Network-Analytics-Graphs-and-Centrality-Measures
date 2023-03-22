@@ -1,6 +1,7 @@
 # Social-Network-Analytics-Graphs-and-Centrality-Measures
 
-# NetworkX is a Python package for the creation, manipulation, and study of complex networks or graphs.
+# NetworkX 
+NetworkX is a Python package for the creation, manipulation, and study of complex networks or graphs.
 
 # PART - 1
 Creation of Directed and Undirected Graph
